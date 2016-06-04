@@ -1,0 +1,1 @@
+define("crowd/index",function(n){var e=(n("zepto"),n("common/swiper/index"));new e({container:"banner",pager:"bannerPager"})});

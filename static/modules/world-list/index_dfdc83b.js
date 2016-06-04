@@ -1,0 +1,1 @@
+define("world-list/index",function(e){e("zepto")});

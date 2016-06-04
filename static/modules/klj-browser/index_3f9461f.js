@@ -1,0 +1,1 @@
+define("klj-browser/index",function(){});

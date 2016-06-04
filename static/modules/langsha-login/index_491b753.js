@@ -1,0 +1,1 @@
+define("langsha-login/index",function(o){var n=o("zepto"),e=o("common/alert/alert"),t=o("common/ajax/index"),a=o("common/login-pop/index"),c=n(document.body).attr("alert");switch(c){case"pay-suc":e.show(n("#J-pay-suc").html(),!1);break;case"login-suc":e.show(n("#J-register-suc").html())}a.init({Ajax:t,loginSuc:function(){e.show(n("#J-register-suc").html())}})});

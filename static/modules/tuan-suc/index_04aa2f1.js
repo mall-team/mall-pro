@@ -1,0 +1,1 @@
+define("tuan-suc/index",function(i){var n=i("common/guide/guide"),e=i("common/timer/timer");i("common/j-ajax/index").init();var t=$("#J-btn-invite");"undefined"==typeof taojinzi?new n(t):t.on("click",function(){taojinzi.share(JSON.stringify({title:title,link:link,imgUrl:imgUrl,desc:desc}))}),new e("#J-timer").start().end(function(){})});

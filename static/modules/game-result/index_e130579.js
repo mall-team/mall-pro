@@ -1,0 +1,1 @@
+define("game-result/index",function(){});

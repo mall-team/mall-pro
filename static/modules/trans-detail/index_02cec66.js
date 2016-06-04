@@ -1,0 +1,1 @@
+define("trans-detail/index",function(){});

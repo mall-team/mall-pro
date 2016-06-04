@@ -1,0 +1,1 @@
+define("crab/index",function(n){var e=n("zepto"),t=n("common/timer/timer"),i=n("common/util/index");i.phpdataReady(function(){e(".J-timer").each(function(n,e){new t(e,"time").start().end(function(){})})})});

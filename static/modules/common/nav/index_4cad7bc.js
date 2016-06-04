@@ -1,0 +1,1 @@
+define("common/nav/index",function(n,a,t){function i(){(new r).send({url:$("#J-ajaxurl-initCart").val()},function(n){var a=+n.number,t=$(".cart > .cart-num");a>0&&t.text(a).css("display","block")})}var r=n("common/ajax/index");t.exports={initCart:i}});

@@ -1,0 +1,1 @@
+define("z-shop/index",function(e){var b=e("common/alert/alert"),o=e("common/bubble/bubble"),t=document.body.getAttribute("alert");window.Bubble=o,t&&b.show(t)});

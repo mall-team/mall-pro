@@ -1,0 +1,1 @@
+define("college/mine/index",function(){});

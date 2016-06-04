@@ -1,0 +1,1 @@
+define("shop-suc/index",function(d){var e=d("common/guide/guide");new e("#J-guide","download")});

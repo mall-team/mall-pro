@@ -1,0 +1,1 @@
+define("xiaowei/pay/index",function(){});

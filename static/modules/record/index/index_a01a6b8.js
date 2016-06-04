@@ -1,0 +1,1 @@
+define("record/index/index",function(){});

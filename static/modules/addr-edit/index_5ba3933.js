@@ -1,0 +1,1 @@
+define("addr-edit/index",function(){});

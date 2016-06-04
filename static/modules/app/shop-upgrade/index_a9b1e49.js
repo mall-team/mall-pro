@@ -1,0 +1,1 @@
+define("app/shop-upgrade/index",function(){});

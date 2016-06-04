@@ -1,0 +1,1 @@
+define("langsha-index/index",function(n){var e=n("common/swiper/index"),o=$(".fix-panel");new e({container:"banner",pager:"bannerPager"}),o.on("click",".close",function(){o.remove(),$(document.body).css("padding-bottom","10px")})});

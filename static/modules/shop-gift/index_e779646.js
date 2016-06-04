@@ -1,0 +1,1 @@
+define("shop-gift/index",function(){});

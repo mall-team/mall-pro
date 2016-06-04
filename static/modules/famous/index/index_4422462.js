@@ -1,0 +1,1 @@
+define("famous/index/index",function(n){var e=n("common/swiper/index");new e({container:"banner",pager:"bannerPager"})});

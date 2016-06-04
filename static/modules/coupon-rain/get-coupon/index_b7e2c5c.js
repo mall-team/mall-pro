@@ -1,0 +1,1 @@
+define("coupon-rain/get-coupon/index",function(n){function o(){i()}function i(){e("#J-get-coupon").on("click",c)}function c(){(new u).send({url:"/Activity/CouponRain/drawCoupon"},function(){t.show("领取成功！"),setTimeout(function(){location.reload()},2e3)})}var e=n("zepto"),u=n("common/ajax/index"),t=n("common/bubble/bubble");o()});

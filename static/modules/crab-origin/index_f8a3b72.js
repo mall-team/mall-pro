@@ -1,0 +1,1 @@
+define("crab-origin/index",function(i){i("zepto")});

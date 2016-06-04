@@ -1,0 +1,1 @@
+define("worth-list/index",function(e){e("zepto")});

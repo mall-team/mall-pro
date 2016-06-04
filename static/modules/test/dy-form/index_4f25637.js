@@ -1,0 +1,1 @@
+define("test/dy-form/index",function(o){var n=o("zepto");n("#J-submit").on("click",function(){n('<form action="bb.html"></form>').appendTo(n("body")).submit()})});

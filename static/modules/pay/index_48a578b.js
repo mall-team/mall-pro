@@ -1,0 +1,1 @@
+define("pay/index",function(){});

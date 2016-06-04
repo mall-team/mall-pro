@@ -1,0 +1,1 @@
+define("404/index",function(){function e(t,i){return n.innerHTML=t,t--,0>t?void i():void setTimeout(function(){e(t,i)},1e3)}var n=document.getElementById("J-timer"),t=document.getElementById("J-back"),i=+n.innerHTML;i&&i>0&&e(i,function(){location.href=t.getAttribute("href")})});

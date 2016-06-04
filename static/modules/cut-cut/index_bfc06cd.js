@@ -1,0 +1,1 @@
+define("cut-cut/index",function(n){var t=n("zepto"),e=n("common/timer/timer"),i=n("common/util/index");i.phpdataReady(function(){t(".J-timer").each(function(n,t){new e(t,"time").start().end(function(){})})})});

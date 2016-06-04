@@ -1,0 +1,1 @@
+define("invite/index",function(n){function i(){o()}function o(){(new t).send({url:"http://img.taojinzi.com/genqrcode.php",dataType:"jsonp",data:{data:e("#J-qrcode-url").val(),logo:1,size:8}},function(n){e("#J-qrcode-img").html('<img src="'+n.url+'" />')})}var e=n("zepto"),t=n("common/ajax/index");i()});

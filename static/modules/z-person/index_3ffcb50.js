@@ -1,0 +1,1 @@
+define("z-person/index",function(e){var n=e("zepto"),o=e("common/alert/alert"),r=e("common/bubble/bubble");window.Bubble=r;var t=n("#J-register");t.on("click",function(e){var n=t.attr("alert");n&&o.show(n),e.preventDefault()})});

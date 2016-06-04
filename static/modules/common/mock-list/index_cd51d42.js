@@ -1,0 +1,1 @@
+define("common/mock-list/index",function(o){o("common/mock-list/goods-list/index"),o("common/mock-list/cut-info/index"),o("common/mock-list/wallet/index")});

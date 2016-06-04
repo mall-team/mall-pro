@@ -1,0 +1,1 @@
+define("address/index",function(n){function e(){d.initPage({container:"#J-address-section"})}var d=(n("zepto"),n("common/address/index"));e()});

@@ -1,0 +1,1 @@
+define("shop-college/index",function(o){var n=o("zepto"),i=o("common/alert/alert"),t=o("common/ajax/index"),a=o("common/login-pop/index");phpdata={isLogin:0},n("#J-shop").on("click",function(){var o=n(this),e=phpdata.isLogin,c=o.attr("alert-msg");return c?(i.show(c),!1):0==e?(a.show({Ajax:t,loginSuc:function(){location.href=o.attr("href")}}),!1):void 0})});

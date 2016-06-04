@@ -1,0 +1,1 @@
+.clearfix:after{display:block;content:'';clear:both;visibility:hidden;width:0;height:0}.addr-selector{max-height:400px;overflow-y:auto}.addr-selector li{color:#666;text-align:center;line-height:40px;font-size:15px}.addr-selector li:active,.addr-selector li.selected{background-color:#eee;color:#313131}

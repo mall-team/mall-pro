@@ -1,0 +1,1 @@
+define("wholesale-list/index",function(){});

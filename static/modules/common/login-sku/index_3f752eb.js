@@ -1,0 +1,1 @@
+define("common/login-sku/index",function(n,o,i){function t(){}var e=(n("zepto"),n("common/amount/index"));loginSku.prototype={show:function(){},_init:function(){new e}},i.exports=t});

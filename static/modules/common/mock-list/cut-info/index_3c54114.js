@@ -1,0 +1,1 @@
+define("common/mock-list/cut-info/index",function(o){{var c=o("common/mockjs/index");c.mock(/HaggleAction\/joinHaggleActive/,{code:1e3,result:{}})}});

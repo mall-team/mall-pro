@@ -1,0 +1,1 @@
+define("pay-yes/index",function(a){var i=a("zepto");i("#J-pay-way").on("click","li",function(){var a=i(this),e=a.attr("value");a.siblings().removeClass("active"),a.addClass("active"),i("#J-radio").val(e)})});

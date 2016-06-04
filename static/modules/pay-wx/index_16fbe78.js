@@ -1,0 +1,1 @@
+define("pay-wx/index",function(n){function a(){i()}function i(){o("#J-wx-pay").on("click",c)}function c(){(new l).send({url:"/Mall/Pay/vipDirectPay"},function(n){e.callpay(n.jsParams,n.url)})}var o=n("zepto"),e=n("common/wxpay/index"),l=n("common/ajax/index");a()});

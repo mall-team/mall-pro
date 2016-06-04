@@ -1,0 +1,1 @@
+define("college/course-edit/index",function(e){var n=e("zepto"),c=n("#J-set-pwd"),o=n("#J-pwd-input");c.on("change",function(){o.css("display",c[0].checked?"block":"none")})});

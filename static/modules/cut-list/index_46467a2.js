@@ -1,0 +1,1 @@
+define("cut-list/index",function(e){e("zepto")});

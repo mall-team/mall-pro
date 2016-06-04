@@ -1,0 +1,1 @@
+define("ticket-list/index",function(){});
